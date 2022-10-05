@@ -1,0 +1,58 @@
+/* Seven Principles of Typographic Contrast */
+
+/* Base
+======================================================== */
+body {
+    background: #cef2f7;
+    font-family: 'Playfair Display', serif;
+}
+
+main {
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+
+/* Typography
+======================================================== */
+h1 {
+    font-size: 36pt;
+    line-height: 100%;
+    letter-spacing: -1px;
+    color: #880202;
+    text-align: center;
+    padding: 12px;
+    border-bottom: 5px solid;
+}
+
+h2 {
+    font-size: 20pt;
+    line-height: 120%;
+    text-align: center;
+}
+
+p {
+    font-size: 12pt;
+    line-height:110%;
+    text-indent: 30px;
+}
+
+h3 {
+    font-size: 18pt;
+    line-height: 90%;
+}
+
+ul {
+    font-size: 12pt;
+    line-height: 120%;
+    list-style: square;
+}
+
+li{
+    padding: 8px;
+}
+
+h4 {
+    font-size: 14pt;
+    line-height: 90%;
+}
